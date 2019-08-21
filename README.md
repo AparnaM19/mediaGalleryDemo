@@ -11,4 +11,5 @@ run 'php artisan migrate' in 'mediaGallery' project folder
          DB_DATABASE=mediagallery
          DB_USERNAME=root 
          DB_PASSWORD=m/RlxUJMhQW3
+	 
 3.Run Project using- http://localhost/mediaGallery/public/
